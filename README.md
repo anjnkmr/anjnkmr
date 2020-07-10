@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Zero Code Platform
+- 🔭 I’m currently working on Zero Coding Platform
 - 🌱 I’m currently learning Blockchain & Machine Learning
 - 🤔 I’m looking for help with [angular-tree-table](https://github.com/anjnkmr/angular-tree-table)
 - 💬 Developer
