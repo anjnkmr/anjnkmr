@@ -1,8 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Zero Code Platform
-- 🌱 I’m currently learning Blockchain & Machine Learning
-- 🤔 I’m looking for help with improving [angular-tree-table](https://github.com/anjnkmr/angular-tree-table) & Documentation
-- 💬 Developer
+- 🔭 I’m currently working on Near Zero Code Platform
 - 📫 How to reach me: kumar.rakuditi@gmail.com
 
 <!--
